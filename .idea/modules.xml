@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms1.x.iml" filepath="$PROJECT_DIR$/.idea/modules/jms1.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms1.x_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jms1.x_main.iml" group="jms1.x" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jms1.x_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jms1.x_test.iml" group="jms1.x" />
+    </modules>
+  </component>
+</project>
